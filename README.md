@@ -6,4 +6,5 @@ of the [Introduction to Programming for Information and Data Science](https://in
 
 Solutions can be found in the `solution` branch.
 
-Completed by Yini Guan
+Completed by Yini Guan 
+Completed by Yini Guan again on 4/1/2018_newlaptop_yeah!
